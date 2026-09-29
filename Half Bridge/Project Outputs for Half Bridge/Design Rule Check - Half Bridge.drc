@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Altium\Projects\DP_Tronics\Project-B\Half Bridge\Half Bridge.PcbDoc
 Date     : 9/29/2026
-Time     : 2:38:04 PM
+Time     : 3:27:06 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -48,4 +48,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
